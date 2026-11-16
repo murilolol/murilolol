@@ -14,6 +14,10 @@
 </p>
 
 <p align="center">
+  <sub><a href="https://www.linkedin.com/in/murilodev">LinkedIn</a> &nbsp;·&nbsp; <a href="https://www.instagram.com/muriloodev">Instagram @muriloodev</a></sub>
+</p>
+
+<p align="center">
   <a href="#sobre">Sobre</a> &nbsp;·&nbsp; <a href="#stack">Stack</a> &nbsp;·&nbsp; <a href="#projetos">Projetos</a>
 </p>
 
@@ -27,6 +31,14 @@ Atuo do back-end ao front-end, principalmente com **Java**, **Python** e
 
 Programo há 4 anos e mantenho sistemas que estão no ar, como o Sistemáticos.
 Também sou assistente contábil, onde automatizo rotinas fiscais com código.
+
+<br>
+
+## Projeto em destaque
+
+**[muri-saver](https://github.com/murilolol/muri-saver)**: gaste menos cota, nunca perca contexto e tenha um diário de tudo que a IA fez, no Claude Code, Codex e Antigravity.
+
+https://github.com/user-attachments/assets/2539e5ed-4393-4391-82ba-e5e1eb926f9a
 
 <br>
 
@@ -66,3 +78,5 @@ Também sou assistente contábil, onde automatizo rotinas fiscais com código.
     </td>
   </tr>
 </table>
+
+Também: **[muri-skills](https://github.com/murilolol/muri-skills)**, skills que ensinam agentes de código a entregar trabalho pronto (muri-video, muri-saver e uma stack curada com crédito).
